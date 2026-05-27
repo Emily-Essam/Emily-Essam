@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Emily, an AI Engineer based in Egypt.
+And I am a Computer Engineering Graduate with a strong passion for AI development and Research.
+I am currently working on building LLM projects that solve real problems and also focus on their evaluation. 
+My Main Techstack: Python, Langchain, Hugging Face Transformers, Pytorch, Scikit Learn, Pandas, Numpy.
+My Favourite Tools: PyCharm, Jupyter Notebooks, AWS (beginner level).
+If you would like to reach me, you can message me on my LinkedIn: https://www.linkedin.com/in/emily-essam/
+Have a good day.
